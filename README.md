@@ -8,7 +8,7 @@ The theme of the first day's session is "Why?" while the second day covers "How?
 
 We will have lightning talks, discussion groups, constructive activities, and traditional talks (of which you're welcome to propose your own!).
 
-AEdu is free to attend, and you can register at <a href="https://forms.gle/YkS3yWknoLdFCAMz6">https://forms.gle/YkS3yWknoLdFCAMz6</a>.
+AEdu is free to attend, and you can register (by May 1) at <a href="https://forms.gle/YkS3yWknoLdFCAMz6">https://forms.gle/YkS3yWknoLdFCAMz6</a>.
 
 <div align="center">
   <img src="docs/assets/1.png" title="AEdu: The 2026 ALife Education Workshop">
@@ -20,6 +20,6 @@ AEdu is free to attend, and you can register at <a href="https://forms.gle/YkS3y
 
 <ul>
   <li> Registration form: <a href="https://forms.gle/YkS3yWknoLdFCAMz6">https://forms.gle/YkS3yWknoLdFCAMz6</a>.
-  <li> Events page (In Silence): 
+  <li> Event page (<a href='https://www.beinsilence.com/events/artificial-life-education-2026-spring-workshop'>In Silence</a>) 
 </ul>
 
